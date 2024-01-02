@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sahan Dilip</h1>
-<h3 align="center">A passionate Computer Science & Engineering Undergraduate From Department of Computer Science Engineering in University of Moratuwa.</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile....&hearts;++;Computer+Science+and+Engineering+Undergraduate,;Active+Learner/Researcher/Problem+Solver,;Full-Stack+Developer,;Love+to+learn+new+stuffs.."></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahandilip&label=Profile%20views&color=0e75b6&style=flat" alt="sahandilip" /> </p>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently working on [P1](Project Link 1)
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
 
 - 🌱 I’m currently learning **React, Angular, NodeJS, MYSQL**
 
-- 👯 I’m looking to collaborate on [P2](Project Link 2)
-
-- 🤝 I’m looking for help with [P3](Project Link 3)
-
-- 👨‍💻 All of my projects are available at [My portfolio Link](My portfolio Link)
-
-- 📝 I regularly write articles on [My Dev Link](My Dev Link)
-
 - 📫 Feel be free to reach me **gunathungawsd.21@uom.lk**
-
-- 📄 Know about my experiences [My Resume Link](My Resume Link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
