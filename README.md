@@ -36,10 +36,14 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahanDilip&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-[![Sahan Dilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahanDilip&theme=algolia)](https://github.com/SahanDilip/github-readme-stats)
-<b>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanDilip&theme=algolia)](https://github.com/SahanDilip/github-readme-stats)</b>
+<div align="left">
+
+<a href="https://github.com/SahanDilip/">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahanDilip&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahanDilip&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+
+</a>
+</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
