@@ -37,8 +37,9 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SahanDilip&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-[![Sahan Dilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahanDilip&theme=algolia)](https://github.com/SahanDilip/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanDilip&theme=algolia)](https://github.com/SahanDilip/github-readme-stats)
+[![Sahan Dilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahanDilip&theme=algolia)](https://github.com/SahanDilip/github-readme-stats)
+<b>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanDilip&theme=algolia)](https://github.com/SahanDilip/github-readme-stats)</b>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
