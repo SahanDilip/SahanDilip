@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sahan Dilip</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile....&hearts;++;Computer+Science+and+Engineering+Undergraduate,;Active+Learner/Researcher/Problem+Solver,;Full-Stack+Developer,;Love+to+learn+new+stuffs.."></a>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+GitHub+Profile!+👋;+I'm+Sahan+Dilip!;" />
+</h1>
+<h3 align="center">A passionate Full-Stack Developer software developer from Sri Lanka</h3>
+<h3 align="center">Computer Science and Engineering Undergraduate</h3>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -16,7 +17,7 @@
 
 - 💻 Computer Science and Engineering Undergraduate
 
-- 📟 Check My portfolio ..........................
+- 📟 Check My portfolio here [myportfolio](www.404jgoiewhreipo.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -42,14 +43,12 @@
 
 <br>
 
-<div align="left">
-
-<a href="https://github.com/SahanDilip/">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanDilip&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache_seconds=1800" width="450"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahanDilip&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache_seconds=1800" width="375" alt="Sahan Dilip's Top Languages"/>
-</a>
-
-
+<div align=center>
+ <img width=390 src="https://streak-stats.demolab.com?user=SahanDilip&theme=dark" alt="streak stats"/>
+ <!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=SahanDilip&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
+  <br/>
+<br/><br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanDilip&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br>
