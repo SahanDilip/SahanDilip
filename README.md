@@ -18,16 +18,6 @@
 
 - 📟 Check my portfolio here [myportfolio](https://www.404jgoiewhreipo.com)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"><b>Let's Connect..!</b>
-<br>
-<p align="center">
-<a href="https://www.linkedin.com/in/sahan-dilip-gunathunga-a1b591279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahan dilip gunathunga" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sahan.dilip.77?mibextid=vk8aRt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahan dilip" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sahan_dilip_?igsh=bmNsdWN2a3d4bWs0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahan_dilip" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/Sahan_Gunathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahan dilip" height="30" width="40" /></a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
