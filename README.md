@@ -19,7 +19,7 @@
   <a href="https://sahandilip.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github-pages&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/sahan-gunathunga" target="_blank">
+  <a href="https://www.linkedin.com/in/sahan-gunathunga" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sahangunathunga.21@cse.mrt.ac.lk">
@@ -62,7 +62,7 @@
 <p align="center">
   📧 <b>sahangunathunga.21@cse.mrt.ac.lk</b><br/>
   🌐 <a href="https://sahandilip.github.io/portfolio/">Portfolio</a><br/>
-  💼 <a href="www.linkedin.com/in/sahan-gunathunga">LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/sahan-gunathunga">LinkedIn</a>
 </p>
 
 ---
